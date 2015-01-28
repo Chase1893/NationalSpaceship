@@ -5,7 +5,9 @@
 - Noah Johnson
     - Email: `noahmjohnson@gmail.com`
     - Role\Major: `Instructor`
-
+ - Chase Starks 
+    Email: chase.starks@loop.cloum.edu
+    Major: Game Developer 
 ## Projects
 - NationalSpaceship <a href="https://github.com/IAMColumbia/NationalSpaceship.git"><i class="fa fa-git-square"></i></a>
 
